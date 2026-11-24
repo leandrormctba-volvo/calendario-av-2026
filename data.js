@@ -1,23 +1,23 @@
 window.DADOS = {
-    "atualizadoEm":  "17/11/2026 12:49",
+    "atualizadoEm":  "24/11/2026 18:38",
     "ano":  2026,
     "mediaAnualPlanilha":  {
-                               "valor":  0.8356189265280175,
-                               "texto":  "83,56%"
+                               "valor":  0.84855043945953035,
+                               "texto":  "84,86%"
                            },
     "pctMesesPlanilha":  [
                              null,
                              1,
                              1,
                              0.81818181818181823,
-                             0.75,
+                             0.69444444444444442,
                              0.9285714285714286,
                              0.75,
                              0.7142857142857143,
                              1,
-                             0.76923076923076927,
-                             0.46153846153846156,
-                             0.16666666666666666
+                             0.7857142857142857,
+                             0.6428571428571429,
+                             0
                          ],
     "tarefas":  [
                     {
@@ -243,9 +243,9 @@ window.DADOS = {
                         "responsavel":  "Leandro Moreira",
                         "participantes":  48,
                         "data":  "24/04/2026",
-                        "status":  "",
+                        "status":  "FEITO",
                         "situacao":  "Realizada",
-                        "inferido":  true,
+                        "inferido":  false,
                         "obs":  ""
                     },
                     {
@@ -301,7 +301,7 @@ window.DADOS = {
                         "evento":  "Copa de Volei (torneio feminino)",
                         "categoria":  "ESPORTIVA",
                         "responsavel":  "Leandro Moreira",
-                        "participantes":  null,
+                        "participantes":  0,
                         "data":  "12/04/2026",
                         "status":  "CANCELADO",
                         "situacao":  "Cancelada",
@@ -315,9 +315,9 @@ window.DADOS = {
                         "responsavel":  "Leandro Moreira",
                         "participantes":  null,
                         "data":  "25/04/2026",
-                        "status":  "",
+                        "status":  "FEITO",
                         "situacao":  "Realizada",
-                        "inferido":  true,
+                        "inferido":  false,
                         "obs":  "0.05"
                     },
                     {
@@ -361,12 +361,12 @@ window.DADOS = {
                         "evento":  "LANÇAMENTO RAKING XADREZ",
                         "categoria":  "ESPORTIVA",
                         "responsavel":  "Julio Cecilio",
-                        "participantes":  null,
+                        "participantes":  0,
                         "data":  "17/04/2026",
-                        "status":  "",
-                        "situacao":  "Pendente",
+                        "status":  "NÃO REALIZADO",
+                        "situacao":  "Cancelada",
                         "inferido":  false,
-                        "obs":  ""
+                        "obs":  "baixa adesão nos torneios presenciais , será reformulado para 2027 para atrair mais adeptos"
                     },
                     {
                         "mes":  5,
@@ -409,12 +409,12 @@ window.DADOS = {
                         "evento":  "CUMBUCA DO FUTSAL FEMININO",
                         "categoria":  "ESPORTIVA",
                         "responsavel":  "Julio Cecilio",
-                        "participantes":  null,
+                        "participantes":  0,
                         "data":  "23/05/2026",
-                        "status":  "",
-                        "situacao":  "Pendente",
+                        "status":  "CANCELADO",
+                        "situacao":  "Cancelada",
                         "inferido":  false,
-                        "obs":  ""
+                        "obs":  "baixa adesão das atletas, foi transferido para mês subsequente, mas mesmo assim não teve mais inscritas"
                     },
                     {
                         "mes":  5,
@@ -438,7 +438,7 @@ window.DADOS = {
                         "status":  "FAZENDO",
                         "situacao":  "Em andamento",
                         "inferido":  false,
-                        "obs":  "transferido para outubro"
+                        "obs":  "transferido para novembro"
                     },
                     {
                         "mes":  5,
@@ -507,7 +507,7 @@ window.DADOS = {
                         "responsavel":  "Leandro Moreira",
                         "participantes":  null,
                         "data":  "23/05/2026",
-                        "status":  "NÃO REALIZADO",
+                        "status":  "CANCELADO",
                         "situacao":  "Cancelada",
                         "inferido":  false,
                         "obs":  "cancelado devido baixa procura"
@@ -531,10 +531,10 @@ window.DADOS = {
                         "responsavel":  "Julio Cecilio",
                         "participantes":  null,
                         "data":  "31/05/2026",
-                        "status":  "FAZENDO",
-                        "situacao":  "Em andamento",
+                        "status":  "CANCELADO",
+                        "situacao":  "Cancelada",
                         "inferido":  false,
-                        "obs":  ""
+                        "obs":  "foi escrito o esqueleto do projeto , porém não executado a tempo, será reformulado para 2027 e lançado logo no começo do ano"
                     },
                     {
                         "mes":  5,
@@ -558,7 +558,7 @@ window.DADOS = {
                         "status":  "FEITO",
                         "situacao":  "Realizada",
                         "inferido":  false,
-                        "obs":  ""
+                        "obs":  "Campeões Masculino: Marcelo Silva (funcionario) / Bruno (funcionario) / Fabio Ribeiro. Feminino: Manoela arantes / Cibele Gabardo e Sara Veiga"
                     },
                     {
                         "mes":  5,
@@ -591,9 +591,9 @@ window.DADOS = {
                         "responsavel":  "Leandro Moreira",
                         "participantes":  36,
                         "data":  "26/06/2026",
-                        "status":  "",
+                        "status":  "FEITO",
                         "situacao":  "Realizada",
-                        "inferido":  true,
+                        "inferido":  false,
                         "obs":  ""
                     },
                     {
@@ -723,8 +723,8 @@ window.DADOS = {
                         "responsavel":  "Cristiano Schuh",
                         "participantes":  null,
                         "data":  "27/06/2026",
-                        "status":  "CANCELADO",
-                        "situacao":  "Cancelada",
+                        "status":  "TRANSFERIDO",
+                        "situacao":  "Transferida",
                         "inferido":  false,
                         "obs":  "transferido para setembro com o tema Pizza"
                     },
@@ -762,7 +762,7 @@ window.DADOS = {
                         "status":  "CANCELADO",
                         "situacao":  "Cancelada",
                         "inferido":  false,
-                        "obs":  ""
+                        "obs":  "Organização não respondeu a tempo para lançarmos as inscrições para nossos associados."
                     },
                     {
                         "mes":  7,
@@ -882,7 +882,7 @@ window.DADOS = {
                         "status":  "FEITO",
                         "situacao":  "Realizada",
                         "inferido":  false,
-                        "obs":  ""
+                        "obs":  "Campeoes: Juliano Rocha e João Vitor"
                     },
                     {
                         "mes":  7,
@@ -906,7 +906,7 @@ window.DADOS = {
                         "status":  "CANCELADO",
                         "situacao":  "Cancelada",
                         "inferido":  false,
-                        "obs":  ""
+                        "obs":  "periodo curto para fazer as inscrições"
                     },
                     {
                         "mes":  8,
@@ -1045,12 +1045,12 @@ window.DADOS = {
                         "evento":  "ECO RUN",
                         "categoria":  "ESPORTIVA",
                         "responsavel":  "Julio Cecilio",
-                        "participantes":  null,
+                        "participantes":  0,
                         "data":  "02/ago",
                         "status":  "NÃO REALIZADO",
                         "situacao":  "Cancelada",
                         "inferido":  false,
-                        "obs":  ""
+                        "obs":  "Pós festa Arraia da AV, equipe estava toda mobilizada para esse evento"
                     },
                     {
                         "mes":  8,
@@ -1105,12 +1105,12 @@ window.DADOS = {
                         "evento":  "Torneio de Poker - 6ª etapa",
                         "categoria":  "ESPORTIVA",
                         "responsavel":  "Cristiano Schuh",
-                        "participantes":  null,
+                        "participantes":  54,
                         "data":  "30/09/2026",
                         "status":  "FEITO",
                         "situacao":  "Realizada",
                         "inferido":  false,
-                        "obs":  ""
+                        "obs":  "Término as 01h48 - (1º Jair Santos, 2º Vagner Abucarub, 3º André Silva)"
                     },
                     {
                         "mes":  9,
@@ -1129,12 +1129,12 @@ window.DADOS = {
                         "evento":  "Excursão Beto Carrero",
                         "categoria":  "SOCIAL",
                         "responsavel":  "Leticia Goulart",
-                        "participantes":  null,
+                        "participantes":  53,
                         "data":  "19/9/2026",
                         "status":  "",
                         "situacao":  "Realizada",
                         "inferido":  true,
-                        "obs":  ""
+                        "obs":  "Transferido para novembro"
                     },
                     {
                         "mes":  9,
@@ -1177,7 +1177,7 @@ window.DADOS = {
                         "evento":  "3ª ETAPA CIRCUITO DE TENIS",
                         "categoria":  "ESPORTIVA",
                         "responsavel":  "Adriano Knaut",
-                        "participantes":  null,
+                        "participantes":  33,
                         "data":  "09/09/2026",
                         "status":  "FAZENDO",
                         "situacao":  "Em andamento",
@@ -1201,43 +1201,43 @@ window.DADOS = {
                         "evento":  "Torneio de Poker - 7ª etapa",
                         "categoria":  "ESPORTIVA",
                         "responsavel":  "Cristiano Schuh",
-                        "participantes":  null,
+                        "participantes":  42,
                         "data":  "07/10/2026",
                         "status":  "FEITO",
                         "situacao":  "Realizada",
                         "inferido":  false,
-                        "obs":  ""
+                        "obs":  "Término as 1h37 - (1º Eder Berti, 2º Sandro Waltiach, 3ºWillian Dallagrana)"
                     },
                     {
                         "mes":  10,
                         "evento":  "Torneio de Poker - 8ª etapa",
                         "categoria":  "ESPORTIVA",
                         "responsavel":  "Cristiano Schuh",
-                        "participantes":  null,
+                        "participantes":  54,
                         "data":  "16/10/2026",
                         "status":  "FEITO",
                         "situacao":  "Realizada",
                         "inferido":  false,
-                        "obs":  ""
+                        "obs":  "Término as 02h12 - (1º Vinicius Frigotto, 2º André Silva, 3º Cristiano Schuh)"
                     },
                     {
                         "mes":  10,
                         "evento":  "Torneio de Poker - 9ª etapa",
                         "categoria":  "ESPORTIVA",
                         "responsavel":  "Cristiano Schuh",
-                        "participantes":  null,
+                        "participantes":  45,
                         "data":  "28/10/2026",
                         "status":  "FEITO",
                         "situacao":  "Realizada",
                         "inferido":  false,
-                        "obs":  ""
+                        "obs":  "Término as 02h55 - (1º Gustavo Aires, Laurent Passy, Everaldo Smicelato)"
                     },
                     {
                         "mes":  10,
                         "evento":  "Festa das Crianças",
                         "categoria":  "SOCIAL",
                         "responsavel":  "Adriano Knaut",
-                        "participantes":  4500,
+                        "participantes":  5000,
                         "data":  "03/10/2026",
                         "status":  "FEITO",
                         "situacao":  "Realizada",
@@ -1249,10 +1249,22 @@ window.DADOS = {
                         "evento":  "VINHOS - BORDEAUX",
                         "categoria":  "SOCIAL",
                         "responsavel":  "Adriano Knaut",
-                        "participantes":  null,
+                        "participantes":  12,
                         "data":  "10/11/2026",
                         "status":  "FAZENDO",
                         "situacao":  "Em andamento",
+                        "inferido":  false,
+                        "obs":  ""
+                    },
+                    {
+                        "mes":  10,
+                        "evento":  "HALLOWEEN KIDS",
+                        "categoria":  "SOCIAL",
+                        "responsavel":  "Leticia Goulart",
+                        "participantes":  110,
+                        "data":  "31/10/2026",
+                        "status":  "FEITO",
+                        "situacao":  "Realizada",
                         "inferido":  false,
                         "obs":  ""
                     },
@@ -1273,7 +1285,7 @@ window.DADOS = {
                         "evento":  "Cozinha fácil Kids",
                         "categoria":  "SOCIAL",
                         "responsavel":  "Cristiano Schuh",
-                        "participantes":  null,
+                        "participantes":  28,
                         "data":  "08/10/2026",
                         "status":  "FEITO",
                         "situacao":  "Realizada",
@@ -1299,10 +1311,10 @@ window.DADOS = {
                         "responsavel":  "Adriano Knaut",
                         "participantes":  null,
                         "data":  "26/10/2026",
-                        "status":  "",
-                        "situacao":  "Pendente",
+                        "status":  "NÃO REALIZADO",
+                        "situacao":  "Cancelada",
                         "inferido":  false,
-                        "obs":  "DE 26/10 A 03/12"
+                        "obs":  "Devio as chuvas na 3ª Etapa, e demorou para acabar."
                     },
                     {
                         "mes":  10,
@@ -1321,7 +1333,7 @@ window.DADOS = {
                         "evento":  "Noite do Horror",
                         "categoria":  "SOCIAL",
                         "responsavel":  "Cristiano Schuh",
-                        "participantes":  null,
+                        "participantes":  360,
                         "data":  "24/10/2026",
                         "status":  "FEITO",
                         "situacao":  "Realizada",
@@ -1333,12 +1345,12 @@ window.DADOS = {
                         "evento":  "THE HARDEST RUN",
                         "categoria":  "ESPORTIVA",
                         "responsavel":  "Julio Cecilio",
-                        "participantes":  14,
+                        "participantes":  25,
                         "data":  "28/10/2026",
                         "status":  "FEITO",
                         "situacao":  "Realizada",
                         "inferido":  false,
-                        "obs":  "Teve 14 participantes"
+                        "obs":  ""
                     },
                     {
                         "mes":  11,
@@ -1359,8 +1371,8 @@ window.DADOS = {
                         "responsavel":  "Adriano Knaut",
                         "participantes":  null,
                         "data":  "07/11/2026",
-                        "status":  "",
-                        "situacao":  "Pendente",
+                        "status":  "NÃO REALIZADO",
+                        "situacao":  "Cancelada",
                         "inferido":  false,
                         "obs":  ""
                     },
@@ -1369,36 +1381,36 @@ window.DADOS = {
                         "evento":  "Torneio de Poker - 10ª etapa",
                         "categoria":  "ESPORTIVA",
                         "responsavel":  "Cristiano Schuh",
-                        "participantes":  null,
+                        "participantes":  56,
                         "data":  "06/11/2026",
-                        "status":  "",
+                        "status":  "FEITO",
                         "situacao":  "Realizada",
-                        "inferido":  true,
-                        "obs":  ""
+                        "inferido":  false,
+                        "obs":  "Término as 03h11 - (1º Ricardo Barros, 2º Julio Cecílio, 3º Eraldo Coelho)"
                     },
                     {
                         "mes":  11,
                         "evento":  "Torneio de Poker - Repescagem",
                         "categoria":  "ESPORTIVA",
                         "responsavel":  "Cristiano Schuh",
-                        "participantes":  null,
+                        "participantes":  18,
                         "data":  "11/11/2026",
-                        "status":  "",
+                        "status":  "FEITO",
                         "situacao":  "Realizada",
-                        "inferido":  true,
-                        "obs":  ""
+                        "inferido":  false,
+                        "obs":  "Término as 00h05 - (6 classificados - Cristiano Schuh, Marco Petterini, Marcelino Domingues, Sidclei Chaves, Juarez Silva, Patrick Juan)"
                     },
                     {
                         "mes":  11,
                         "evento":  "Torneio de Poker - Final",
                         "categoria":  "ESPORTIVA",
                         "responsavel":  "Cristiano Schuh",
-                        "participantes":  null,
+                        "participantes":  18,
                         "data":  "13/11/2026",
-                        "status":  "",
+                        "status":  "FEITO",
                         "situacao":  "Realizada",
-                        "inferido":  true,
-                        "obs":  ""
+                        "inferido":  false,
+                        "obs":  "Término as 01h32 - (1º Fabiano Simioni, 2º Patrick Juan, 3º Jonny Durão)"
                     },
                     {
                         "mes":  11,
@@ -1407,20 +1419,20 @@ window.DADOS = {
                         "responsavel":  "Adriano Knaut",
                         "participantes":  null,
                         "data":  "07/11/2026",
-                        "status":  "",
-                        "situacao":  "Pendente",
+                        "status":  "NÃO REALIZADO",
+                        "situacao":  "Cancelada",
                         "inferido":  false,
-                        "obs":  ""
+                        "obs":  "Devido as chuvas"
                     },
                     {
                         "mes":  11,
-                        "evento":  "Workshop - Cozinha Fácil",
+                        "evento":  "Workshop - Cozinha Fácil Panetones",
                         "categoria":  "SOCIAL",
-                        "responsavel":  "Cristiano Schuh",
-                        "participantes":  null,
-                        "data":  "",
-                        "status":  "",
-                        "situacao":  "Pendente",
+                        "responsavel":  "Leticia Goulart",
+                        "participantes":  10,
+                        "data":  "18/11/2026",
+                        "status":  "FEITO",
+                        "situacao":  "Realizada",
                         "inferido":  false,
                         "obs":  ""
                     },
@@ -1434,7 +1446,7 @@ window.DADOS = {
                         "status":  "CANCELADO",
                         "situacao":  "Cancelada",
                         "inferido":  false,
-                        "obs":  ""
+                        "obs":  "Devido as chuvas"
                     },
                     {
                         "mes":  11,
@@ -1453,10 +1465,10 @@ window.DADOS = {
                         "evento":  "Passeio Ilha do Mel - Bate e volta",
                         "categoria":  "SOCIAL",
                         "responsavel":  "Adriano Knaut",
-                        "participantes":  null,
+                        "participantes":  20,
                         "data":  "20/11/2026",
-                        "status":  "",
-                        "situacao":  "Pendente",
+                        "status":  "FEITO",
+                        "situacao":  "Realizada",
                         "inferido":  false,
                         "obs":  ""
                     },
@@ -1482,6 +1494,18 @@ window.DADOS = {
                         "status":  "NÃO REALIZADO",
                         "situacao":  "Cancelada",
                         "inferido":  false,
+                        "obs":  "Não tivemos resposta da organização a tempo para realizar a prova"
+                    },
+                    {
+                        "mes":  11,
+                        "evento":  "Open de Poker",
+                        "categoria":  "ESPORTIVA",
+                        "responsavel":  "Cristiano Schuh",
+                        "participantes":  null,
+                        "data":  "28/11/2026",
+                        "status":  "FAZENDO",
+                        "situacao":  "Em andamento",
+                        "inferido":  false,
                         "obs":  ""
                     },
                     {
@@ -1489,22 +1513,10 @@ window.DADOS = {
                         "evento":  "CIRCUITO DAS ESTAÇÕES - VERÃO",
                         "categoria":  "ESPORTIVA",
                         "responsavel":  "Julio Cecilio",
-                        "participantes":  null,
+                        "participantes":  72,
                         "data":  "29/11/2026",
-                        "status":  "",
-                        "situacao":  "Pendente",
-                        "inferido":  false,
-                        "obs":  ""
-                    },
-                    {
-                        "mes":  12,
-                        "evento":  "Open de Poker",
-                        "categoria":  "ESPORTIVA",
-                        "responsavel":  "Cristiano Schuh",
-                        "participantes":  null,
-                        "data":  "",
-                        "status":  "",
-                        "situacao":  "Pendente",
+                        "status":  "FEITO",
+                        "situacao":  "Realizada",
                         "inferido":  false,
                         "obs":  ""
                     },
@@ -1515,8 +1527,8 @@ window.DADOS = {
                         "responsavel":  "Leandro Moreira",
                         "participantes":  null,
                         "data":  "",
-                        "status":  "FAZENDO",
-                        "situacao":  "Em andamento",
+                        "status":  "CANCELADO",
+                        "situacao":  "Cancelada",
                         "inferido":  false,
                         "obs":  ""
                     },
@@ -1524,7 +1536,7 @@ window.DADOS = {
                         "mes":  12,
                         "evento":  "Festa de Reveillon",
                         "categoria":  "SOCIAL",
-                        "responsavel":  "Adriano Knaut",
+                        "responsavel":  "Sidclei Chaves",
                         "participantes":  null,
                         "data":  "31/12/2026",
                         "status":  "",
@@ -1539,8 +1551,8 @@ window.DADOS = {
                         "responsavel":  "Cristiano Schuh",
                         "participantes":  null,
                         "data":  "05/12/2026",
-                        "status":  "",
-                        "situacao":  "Pendente",
+                        "status":  "FAZENDO",
+                        "situacao":  "Em andamento",
                         "inferido":  false,
                         "obs":  ""
                     }
